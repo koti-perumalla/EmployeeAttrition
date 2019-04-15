@@ -1,2 +1,2 @@
 # EmployeeAttrition
-![image1.png](images/HRTalent1.png)
+![image1.png](images/HRTalent.png)
